@@ -1,0 +1,28 @@
+STRATEGIC VENDOR AGREEMENT
+
+This Strategic Vendor Agreement ("Agreement") is made effective as of February 10, 2025, between HyperScale Digital Corp. ("Vendor") and Enterprise Holdings LLC ("Customer").
+
+RECITALS
+Customer desires to engage Vendor for continuous managed platform support, hosting infrastructure, and systems engineering.
+Vendor agrees to deliver such services under the terms and conditions outlined below.
+NOW, THEREFORE, the Parties agree as follows:
+
+1. Performance of Services
+Vendor shall maintain 99.9% application uptime and provide system maintenance, bug fixes, and continuous technical support according to agreed operational service levels.
+
+2. Fees and Payment Terms
+Customer shall compensate Vendor in accordance with the fee schedules attached hereto. All invoices shall be submitted monthly and are payable Net 30 days from date of receipt. Late payments shall be subject to a finance charge of 1.0% per month.
+
+3. Term and Termination
+The initial term shall be one (1) year from the Effective Date. Either party may terminate this Agreement for convenience upon thirty (30) days prior written notice to the other Party. Additionally, either Party may terminate immediately for cause upon written notice if a material breach remains uncured for thirty (30) days following written notice.
+
+4. Limitation of Liability
+Vendor shall have unlimited liability for any and all claims, liabilities, costs, losses, indirect, special, consequential, or punitive damages arising out of or related to this Agreement without cap. Customer's aggregate liability under this Agreement shall remain capped at the fees paid in the preceding twelve (12) months.
+
+5. Confidentiality and Proprietary Information
+Each Party shall hold the other Party's Confidential Information in strict confidence for a period of three (3) years from disclosure. Confidential Information excludes information that is public, previously known without restriction, independently created, or required to be disclosed by judicial process.
+
+6. Governing Law
+This Agreement shall be construed and interpreted in accordance with the laws of the Commonwealth of Massachusetts.
+
+IN WITNESS WHEREOF, the Parties have executed this Strategic Vendor Agreement as of the date first above written.

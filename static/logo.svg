@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 80" fill="none">
+  <defs>
+    <!-- Background Gradient for Icon -->
+    <linearGradient id="fullBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5" />
+      <stop offset="50%" stop-color="#4338CA" />
+      <stop offset="100%" stop-color="#1E1B4B" />
+    </linearGradient>
+
+    <linearGradient id="fullFacetLeft" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#3B82F6" />
+    </linearGradient>
+
+    <linearGradient id="fullFacetRight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A78BFA" />
+      <stop offset="100%" stop-color="#6366F1" />
+    </linearGradient>
+
+    <linearGradient id="fullBeam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#C084FC" />
+    </linearGradient>
+
+    <linearGradient id="fullSpark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34D399" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+
+    <filter id="fullShadow" x="-15%" y="-15%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#4F46E5" flood-opacity="0.25" />
+    </filter>
+  </defs>
+
+  <!-- Left Icon Mark (64x64 placed at x=8, y=8) -->
+  <g transform="translate(8, 8)">
+    <rect width="64" height="64" rx="18" fill="url(#fullBg)" filter="url(#fullShadow)" />
+    <rect x="0.5" y="0.5" width="63" height="63" rx="17.5" stroke="rgba(255,255,255,0.2)" fill="none" />
+
+    <!-- Shield Facets -->
+    <path d="M 31 16 C 21 16, 13 22, 13 32 C 13 46, 26 55, 31 57.5 V 16 Z" fill="url(#fullFacetLeft)" opacity="0.88" />
+    <path d="M 33 16 C 43 16, 51 22, 51 32 C 51 46, 38 55, 33 57.5 V 16 Z" fill="url(#fullFacetRight)" opacity="0.88" />
+
+    <!-- Pillar Stem -->
+    <path d="M 32 18 V 51" stroke="rgba(255,255,255,0.75)" stroke-width="2" stroke-linecap="round" />
+
+    <!-- Balance Beam -->
+    <path d="M 17 29 H 47" stroke="url(#fullBeam)" stroke-width="2.6" stroke-linecap="round" />
+
+    <!-- Scale Strings & Pans -->
+    <path d="M 21 29 L 18 39 M 21 29 L 24 39" stroke="rgba(255,255,255,0.7)" stroke-width="1.2" stroke-linecap="round" />
+    <path d="M 43 29 L 40 39 M 43 29 L 46 39" stroke="rgba(255,255,255,0.7)" stroke-width="1.2" stroke-linecap="round" />
+
+    <path d="M 16 39 Q 21 44 26 39 Z" fill="#FFFFFF" />
+    <path d="M 38 39 Q 43 44 48 39 Z" fill="#FFFFFF" />
+
+    <circle cx="32" cy="29" r="2.5" fill="#FFFFFF" />
+    <circle cx="32" cy="51" r="2.2" fill="#FFFFFF" />
+
+    <!-- AI Spark Apex -->
+    <path d="M 32 10 L 33.6 13.5 L 37 15 L 33.6 16.5 L 32 20 L 30.4 16.5 L 27 15 L 30.4 13.5 Z" fill="url(#fullSpark)" />
+  </g>
+
+  <!-- Typography Lockup -->
+  <g transform="translate(86, 0)">
+    <!-- Brand Title -->
+    <text x="0" y="38" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="800" fill="#0F172A" letter-spacing="-0.03em">
+      Legal Contract Review
+    </text>
+
+    <!-- Subtitle / Tagline -->
+    <text x="0" y="55" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9.5" font-weight="700" fill="#6366F1" letter-spacing="0.12em">
+      MULTI-AGENT &bull; CHROMA RAG &bull; RISK INTELLIGENCE
+    </text>
+  </g>
+</svg>

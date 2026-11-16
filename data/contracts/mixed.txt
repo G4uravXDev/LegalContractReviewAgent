@@ -1,0 +1,28 @@
+TECHNOLOGY SERVICES AGREEMENT
+
+This Technology Services Agreement ("Agreement") is dated as of March 1, 2025 ("Effective Date"), by and between Nexus Cloud Systems LLC, a Delaware limited liability company ("Provider"), and Meridian Retail Operations Inc., an Ohio corporation ("Client").
+
+RECITALS
+Provider offers managed data analytics, cloud hosting, and technical integration services.
+Client wishes to retain Provider to perform specialized data engineering and application support.
+NOW, THEREFORE, the Parties agree as follows:
+
+1. Scope of Services
+Provider shall deliver software development, system monitoring, and ongoing data pipeline management as specified in executed project task orders.
+
+2. Fees and Payment Terms
+Client shall pay Provider the professional service fees set forth in applicable task orders. All invoices will be issued on the first business day of each calendar month. Undisputed invoices shall be payable Net 60 days from date of invoice. Late payments shall accrue interest at 1.0% per month on delinquent balances. If Client in good faith disputes any portion of an invoice, Client shall pay the undisputed balance and provide prompt written notice of the disputed items within twenty (20) calendar days.
+
+3. Term and Termination
+This Agreement commences on the Effective Date and continues for a primary term of two (2) years. Either party may terminate this Agreement for convenience upon ninety (90) days prior written notice to the other Party. Either Party may terminate immediately upon written notice if the other Party commits a material breach and fails to cure such breach within thirty (30) days after receiving written notification thereof.
+
+4. Limitation of Liability
+To the maximum extent permitted by applicable law, each Party's aggregate cumulative liability for any and all claims, disputes, or causes of action arising out of or related to this Agreement shall be capped at twenty-four (24) months of fees paid or payable by Client to Provider immediately prior to the claim. Neither Party shall be liable for special, indirect, incidental, punitive, or consequential damages arising under or in connection with this Agreement.
+
+5. Confidentiality
+During the term of this Agreement and for a period of three (3) years following expiration or termination, each Party agrees to preserve and protect the Confidential Information of the other Party using at least reasonable care. Confidential Information does not include information that is publicly known through no wrongful act, already in the possession of the recipient without confidentiality restriction, independently developed without access to the disclosing party's materials, or required to be disclosed pursuant to subpoena or court order.
+
+6. Miscellaneous
+This Agreement is governed by the laws of the State of Delaware without regard to conflict of law rules. Neither Party may assign this Agreement without prior written consent, except in connection with a merger or acquisition of substantially all assets.
+
+IN WITNESS WHEREOF, the Parties have executed this Technology Services Agreement as of the date first set forth above.

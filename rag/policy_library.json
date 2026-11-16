@@ -1,0 +1,32 @@
+{
+  "policies": [
+    {
+      "clause_type": "liability",
+      "preferred": "Mutual aggregate liability capped at the total fees paid or payable by Customer to Vendor in the twelve (12) months preceding the claim. Consequential, special, and indirect damages are mutually excluded.",
+      "acceptable": "Mutual aggregate liability capped at two times (2x) the total fees paid or payable in the twelve (12) months preceding the claim, or a fixed cap not exceeding 24 months of fees. Consequential damages excluded.",
+      "unacceptable": "Unlimited liability, exclusion of liability caps for indirect, consequential, or punitive damages, or unilateral uncapped indemnification obligations without limitation.",
+      "notes": "Liability caps must be mutual. Never agree to unlimited liability or uncapped exposure under any circumstances."
+    },
+    {
+      "clause_type": "termination",
+      "preferred": "Either party may terminate the agreement for convenience upon thirty (30) days prior written notice, or immediately upon written notice for material breach uncured within thirty (30) days.",
+      "acceptable": "Termination for convenience with up to sixty (60) days prior written notice, with standard cure period of thirty (30) days for material breach.",
+      "unacceptable": "No termination for convenience, notice periods exceeding sixty (60) days (such as 90 or 120 days), unilateral termination rights favoring only counterparty, or termination without reasonable cure periods.",
+      "notes": "Convenience notice periods over 60 days impose unacceptable operational lock-in. Cure periods must be at least 30 days."
+    },
+    {
+      "clause_type": "payment",
+      "preferred": "All undisputed invoices payable Net 30 days from date of receipt. Late payments accrue interest at 1.0% per month or the statutory maximum rate.",
+      "acceptable": "Payment terms up to Net 45 days from receipt of invoice, or Net 30 days from invoice date with standard dispute resolution procedure for disputed amounts.",
+      "unacceptable": "Payment terms exceeding Net 45 days (such as Net 60, Net 90, or Net 120 days), non-refundable advance fee payments without deliverable acceptance, or interest penalties exceeding 1.5% per month.",
+      "notes": "Payment terms beyond Net 45 days create working capital strain and require negotiation or CFO approval."
+    },
+    {
+      "clause_type": "confidentiality",
+      "preferred": "Mutual non-disclosure obligations lasting three (3) years following disclosure or termination of the agreement, with standard exclusions for public information, prior knowledge, independent development, and legally compelled disclosure.",
+      "acceptable": "Mutual confidentiality obligations lasting between two (2) and five (5) years following disclosure, with customary carve-outs and standard duty of reasonable care.",
+      "unacceptable": "Perpetual confidentiality obligations for general commercial information (excluding trade secrets), unilateral non-disclosure obligations binding only our firm, or absence of standard carve-outs for compelled legal disclosures.",
+      "notes": "Confidentiality must be mutual. Perpetual obligations are only acceptable for verified trade secrets, not standard commercial agreements."
+    }
+  ]
+}

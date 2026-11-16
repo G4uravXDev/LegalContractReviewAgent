@@ -1,0 +1,109 @@
+# ==============================================================================
+# ENVIRONMENT & SECRETS
+# ==============================================================================
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ==============================================================================
+# VIRTUAL ENVIRONMENTS
+# ==============================================================================
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ==============================================================================
+# PYTHON BYTECODE & RUNTIME CACHES
+# ==============================================================================
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# ==============================================================================
+# TESTING, COVERAGE & STATIC ANALYSIS
+# ==============================================================================
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+
+# ==============================================================================
+# VECTOR STORES, DATABASES & RAG ARTIFACTS
+# ==============================================================================
+.chroma/
+chroma/
+chroma.sqlite3
+*.db
+*.sqlite
+*.sqlite3
+
+# ==============================================================================
+# GENERATED PIPELINE OUTPUTS & LOGS
+# ==============================================================================
+outputs/*
+!outputs/.gitkeep
+logs/
+*.log
+*.tmp
+
+# ==============================================================================
+# BUILD, PACKAGING & ARTIFACTS
+# ==============================================================================
+build/
+dist/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ==============================================================================
+# IDE, EDITOR & OS METADATA
+# ==============================================================================
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.swo
+*~
+
+# Operating System Files (Windows & macOS)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
